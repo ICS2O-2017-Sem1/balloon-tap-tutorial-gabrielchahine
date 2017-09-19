@@ -2,6 +2,4 @@
 --
 -- main.lua
 --
------------------------------------------------------------------------------------------
-
--- Your code here
+-- local background = dispLay.newImageRect( "backround.png", 360, 570)
